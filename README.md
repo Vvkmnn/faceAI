@@ -7,8 +7,6 @@ My submission for the Computer Vision capstone project in the [AI Nanodegree pro
 
 Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications, from facial tracking to emotion recognition. Your completed code should be able to take in any image containing faces and identify the location of each face and their facial keypoints, as shown below:
 
-![Facial Keypoint Detection][image1]
-
 
 ### Setup
 
