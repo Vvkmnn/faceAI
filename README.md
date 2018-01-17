@@ -1,7 +1,7 @@
 # faceAI
 
-![image1](obamas_with_keypoints.png)
-![image2](obamas_with_shades.png)
+![image1](obamas_keypoints.png)
+![image2](obamas_shades.png)
 
 My submission for the Computer Vision capstone project in the [AI Nanodegree program!](https://www.udacity.com/ai) In this project, we’ll combine your knowledge of computer vision techniques and deep learning to build and end-to-end facial keypoint recognition system. 
 
